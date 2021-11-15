@@ -35,7 +35,7 @@
 　: 편리한 건강 관리 서비스를 트레이너 중심으로 제공함으로 인해 회원 유지 가능<br><br>
  <hr>
  <h2>작품 구성도</h2>
- <img width="40%" src="https://user-images.githubusercontent.com/60960108/141683993-e62034c1-b251-4fda-9c3b-cba2d8a175ab.png"/>
+ <img width="45%" src="https://user-images.githubusercontent.com/60960108/141683993-e62034c1-b251-4fda-9c3b-cba2d8a175ab.png"/>
  <hr>
  <h2>실행 화면</h2>
  <img width="80%" src="https://user-images.githubusercontent.com/60960108/140947493-34e15aa4-d8bd-4a8a-971d-c58c2b9637ad.png"/>
