@@ -91,7 +91,7 @@ public class daily_stamp extends AppCompatActivity {
             }
         });
 
-        //하루 권장 칼로리(아직 손 안댐)
+        //하루 권장 칼로리
         databaseReference = database.getReference("User_Plan"); // DB 테이블 연결
         databaseReference.child(Uid).addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
